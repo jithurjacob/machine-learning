@@ -72,6 +72,7 @@ requirements = {
     'networkx'   : '1.11',
     'nltk'       : '3.1',
     'matplotlib' :'1.5.0',
+    'nltk'       : '3.1',
     'numpy'      : '1.10.4',
     'pandas'     : '0.17.1',
     'PIL'        : '1.1.7',

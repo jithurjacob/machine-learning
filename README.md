@@ -22,12 +22,23 @@ by [Amit Kapoor](http://twitter.com/amitkaps) and [Bargava Subramanian](http://t
 	- Creating features from text
 	- Term Frequency and Inverse Document Frequency (TF-IDF)
 	- Sentiment Analysis
-	- Topic Modelling - Latent Dirichlet Allocation (LDA)
+	- Topic Modeling - Latent Dirichlet Allocation (LDA)
 
 5. Time Series *(8 hours, Datasets - Onion and Energy/Finance)*
 	- ARIMA Models
 	- Exponential Smoothing
 	- Tweaking Model Parameters
 	- Cross Validation Setup
-	- Time series modelling with Regressors
+	- Time series modeling with Regressors
+
+###Script to check if required libraries for the workshop are present 
+Please execute the following at the command prompt
+
+    $ python check_env.py
+
+If any library has a `FAIL` message, please install/upgrade that library.
+
+---
+
+Machine Learning using Python by <a href="https://twitter.com/amitkaps/">Amit Kapoor</a> and <a href="https://twitter.com/bargava/">Bargava Subramanian</a> is licensed under a <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
 
