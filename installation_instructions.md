@@ -15,7 +15,7 @@ We recommend using the Python 3.5 version.
 Run the following script at the command prompt to check if you have all the requisite packages are installed.
 To run, please execute the following command from the command prompt
 
-    ```$ python check_env.py```
+    $ python check_env.py
 
 The output will indicate if any of the libraries are missing or need to be updated. 
 
