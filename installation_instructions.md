@@ -28,7 +28,7 @@ Any package that needs to be upgraded can be upgraded by running the command at 
     $ pip install --upgrade <package_name> 
 
 
-Replace **<package_name>** with the package that needs to be installed/upgraded. 
+Replace <**package_name**> with the package that needs to be installed/upgraded. 
 
 After all the packages are installed, please run the following two commands
 
