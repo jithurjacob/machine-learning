@@ -34,11 +34,11 @@ After all the packages are installed, please run the following two commands
 
 1. Install all the corpora for the `nltk` module. Please be warned that this is a huge file and can take a while. Please refer http://www.nltk.org/data.html for further information on what it downloads
 
-    $ python -m nltk.downloader all
+    `$ python -m nltk.downloader all`
 
 2. Install all the corpora for the `spacy` module. Please be warned that this is a huge file and can take a while
 
-    $ python -m spacy.en.download
+    `$ python -m spacy.en.download`
 
 
 
