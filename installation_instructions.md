@@ -12,7 +12,7 @@ We recommend using the Python 3.5 version.
 
 ### Required packages
 
-Run the following script at the command prompt to check if you have all the requisite packages are installed.
+Run the following script at the command prompt to check if you have all the requisite packages installed.
 To run, please execute the following command from the command prompt
 
     $ python check_env.py
