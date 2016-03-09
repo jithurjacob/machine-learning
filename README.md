@@ -31,7 +31,7 @@ by [Amit Kapoor](http://twitter.com/amitkaps) and [Bargava Subramanian](http://t
 	- Cross Validation Setup
 	- Time series modeling with Regressors
 
-###Script to check if required libraries for the workshop are present 
+###Script to check if requisite libraries for the workshop are present 
 Please execute the following at the command prompt
 
     $ python check_env.py
