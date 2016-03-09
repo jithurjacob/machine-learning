@@ -38,6 +38,8 @@ Please execute the following at the command prompt
 
 If any library has a `FAIL` message, please install/upgrade that library.
 
+Installation instructions can be found [here](https://github.com/amitkaps/machine-learning/blob/master/installation_instructions.md)
+
 ---
 ### Licensing
 
