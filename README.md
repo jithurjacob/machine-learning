@@ -39,6 +39,7 @@ Please execute the following at the command prompt
 If any library has a `FAIL` message, please install/upgrade that library.
 
 ---
+### Licensing
 
 Machine Learning using Python by <a href="https://twitter.com/amitkaps/">Amit Kapoor</a> and <a href="https://twitter.com/bargava/">Bargava Subramanian</a> is licensed under a <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
 
