@@ -23,7 +23,12 @@ Any package that is missing can be installed by running the command at the comma
 
     $ pip install <package_name> 
 
-Replace **<package_name>** with the package that needs to be installed. 
+Any package that needs to be upgraded can be upgraded by running the command at the command prompt
+
+    $ pip install --upgrade <package_name> 
+
+
+Replace **<package_name>** with the package that needs to be installed/upgraded. 
 
 After all the packages are installed, please run the following two commands
 
