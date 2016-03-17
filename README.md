@@ -15,7 +15,7 @@ by [Amit Kapoor](http://twitter.com/amitkaps) and [Bargava Subramanian](http://t
 	- Random Forest Classifier & Regressor
 	- Tuning Model Parameters
 
-4. Text Mining *(6 hours, Dataset - Twitter and Blogs)* 
+4. [Text Mining](/text_mining) *(6 hours, Dataset - DataTau and Twitter)* 
 	- Regular Expression
 	- Stopword Removal, Stemming
 	- Word Cloud
@@ -24,14 +24,14 @@ by [Amit Kapoor](http://twitter.com/amitkaps) and [Bargava Subramanian](http://t
 	- Sentiment Analysis
 	- Topic Modeling - Latent Dirichlet Allocation (LDA)
 
-5. Time Series *(8 hours, Datasets - Onion and Energy/Finance)*
+5. [Time Series](/time_series) *(8 hours, Datasets - Onion)*
 	- ARIMA Models
 	- Exponential Smoothing
 	- Tweaking Model Parameters
 	- Cross Validation Setup
 	- Time series modeling with Regressors
 
-###Script to check if requisite libraries for the workshop are present 
+###Script to check if requisite libraries for the workshop are present
 Please execute the following at the command prompt
 
     $ python check_env.py
@@ -44,4 +44,3 @@ Installation instructions can be found [here](https://github.com/amitkaps/machin
 ### Licensing
 
 Machine Learning using Python by <a href="https://twitter.com/amitkaps/">Amit Kapoor</a> and <a href="https://twitter.com/bargava/">Bargava Subramanian</a> is licensed under a <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
-
