@@ -1,0 +1,181 @@
+,title,date,days
+0,10 Years of Open Source Machine Learning,7 points by tstonez 19 hours ago  | 1 comment,1
+1,What machines can learn from Apple Watch: detecting undiagnosed heart condition,2 points by koukouhappy 7 hours ago  | discuss,1
+2,The Deep Roots of Javascript Fatigue,3 points by nikkielizdemere 13 hours ago  | discuss,1
+3,Data science intro for math/phys background,9 points by pmigdal 1 day ago  | discuss,1
+4,"Data Science Pop-Up in Austin, TX",2 points by AnnaOnTheWeb 13 hours ago  | discuss,1
+5,Data Science Tools: The Biggest Winners and Losers,8 points by AnnaOnTheWeb 1 day ago  | discuss,1
+6,Analyzing Golden State Warriors' passing network using GraphFrames in Spark,3 points by yukiegosapporo 21 hours ago  | discuss,1
+7,Making transparent how variations in analytical choices affect results,4 points by rahmaniacc 1 day ago  | discuss,1
+8,Neural Networks demystified,13 points by elyase 2 days ago  | discuss,2
+9,Has your conversion rate changed? Bayesian timeseries analysis with Python,10 points by yummyfajitas 2 days ago  | discuss,2
+10,Descriptive Statistics in SQL,4 points by nickhould 1 day ago  | discuss,1
+11,"XGBoost4J: Portable Distributed XGboost in Spark, Flink and Dataflow",7 points by crowwork 2 days ago  | discuss,2
+12,Introduction to Scikit Flow -  Simplified Interface to TensorFlow,4 points by lefish 1 day ago  | discuss,1
+13,The Personality Space of Cartoon Characters,3 points by lefish 1 day ago  | discuss,1
+14,"Machine Learning: An In-Depth, Non-Technical Guide???Part 4",5 points by innoarchitech 2 days ago  | discuss,2
+15,How to learn machine learning?,4 points by kiechu 2 days ago  | 1 comment,2
+16,How do we make Data Tau work?,20 points by hal8 3 days ago  | 10 comments,3
+17,7 Big Data Technologies and When to Use Them that All Data Engineers Should Know,2 points by galvanize 1 day ago  | discuss,1
+18,Data Science Slack channel - Click for invite,4 points by jyotsna 2 days ago  | discuss,2
+19,Minecraft to run artificial intelligence experiments,4 points by bsadeghi 2 days ago  | discuss,2
+20,Deep Q-Learning (Space Invaders),4 points by pmigdal 2 days ago  | discuss,2
+21,Megaman: Manifold Learning with Millions of points,3 points by dperry 2 days ago  | 2 comments,2
+22,Computing Classification Evaluation Metrics in R,2 points by lefish 1 day ago  | discuss,1
+23,A Billion Taxi Rides on Amazon EMR Running Presto,3 points by marklit 2 days ago  | discuss,2
+24,Is Scala a better choice than Python for Apache Spark?,5 points by srinify 3 days ago  | discuss,3
+25,Julia: A Fast Language for Numerical Computing,5 points by srinify 3 days ago  | discuss,3
+26,Intellexer - Natural Language Processing and Text Mining REST API,16 points by j_downer 7 days ago  | discuss,7
+27,Shiny app for running a Tensorflow demo,3 points by shinyman 3 days ago  | discuss,3
+28,"Playing ""Moneyball"" on EA FIFA 16",14 points by aabb13 7 days ago  | 3 comments,7
+29,File details and owners with gitnoc and git-pandas,3 points by wdm0006 3 days ago  | discuss,3
+30,BallR: Interactive NBA Shot Charts with R and Shiny,12 points by carlosgg 8 days ago  | discuss,8
+31,Bayesian Estimation of G Train Wait Times,7 points by jamesdreiss 6 days ago  | discuss,6
+32,Announcing Apache Flink 1.0.0,11 points by mxm 8 days ago  | discuss,8
+33,Train your own image classifier with Inception in TensorFlow,7 points by elyase 7 days ago  | discuss,7
+34,Neural Doodles: Workflows for the Next Generation of Artists,5 points by pmigdal 6 days ago  | discuss,6
+35,Question: What do you want to say about working with data?,2 points by emiller425 2 days ago  | discuss,2
+36,Graph Databases 101,5 points by carlosgg 6 days ago  | discuss,6
+37,Statisticians Agree: It???s Time To Stop Misusing P-Value,9 points by jpiburn 9 days ago  | 5 comments,9
+38,XGBoost: A Scalable Tree Boosting System article,5 points by tfturing 6 days ago  | discuss,6
+39,Top 50 Data Science thought leaders on Twitter,3 points by datawerq 5 days ago  | 3 comments,5
+40,International Women's Day: What #PledgeForParity Means To Us,5 points by ddrum001 8 days ago  | discuss,8
+41,Unsupervised Learning with Even Less Supervision Using Bayesian Optimization,2 points by idewanck 5 days ago  | discuss,5
+42,Announcing R Tools for Visual Studio,3 points by brakmic 7 days ago  | discuss,7
+43,Genomic Ranges - an Introduction to Working with Genomic Data,3 points by AnnaOnTheWeb 7 days ago  | discuss,7
+44,Deriving Better Insights From Time Series Data With Cycle Plots,2 points by clevertap 5 days ago  | discuss,5
+45,DrivenData Competition: Model/Visualize Fog Patterns in Morocco,4 points by bull 9 days ago  | discuss,9
+46,Introducing GraphFrames,7 points by falaki 13 days ago  | discuss,13
+47,Ask DT: Who Is Hiring? (March 2016),27 points by whoishiring 15 days ago  | 15 comments,15
+48,Deep Learning: Nine Lectures at Coll??ge de France by Yan LeCun,5 points by Anon84 11 days ago  | discuss,11
+49,TensorFlow for Poets,9 points by ebellm 15 days ago  | 1 comment,15
+50,How to work with large JSON datasets using Python and Pandas,9 points by brian_spiering 15 days ago  | discuss,15
+51,SQL for Data Analysis,3 points by nickhould 8 days ago  | 6 comments,8
+52,Stream processing and messaging systems for the IoT age,2 points by gradientflow 6 days ago  | discuss,6
+53,Optimizing Facebook Campaigns with R,2 points by AnnaOnTheWeb 6 days ago  | 1 comment,6
+54,"Trump Tweets on a Globe (aka Fun with d3, socket.io, and the Twitter API)",8 points by joelgrus 15 days ago  | discuss,15
+55,Why pandas users should be excited about Apache Arrow,17 points by pmigdal 23 days ago  | discuss,23
+56,Histogram intersection for change detection,8 points by datadive 16 days ago  | discuss,16
+57,A simpler way to merge data streams,2 points by apoverton 7 days ago  | discuss,7
+58,Distributed TensorFlow just open-sourced,10 points by elyase 19 days ago  | discuss,19
+59,D3.js Screencasts (1 in 3 are free),4 points by Veerle 12 days ago  | discuss,12
+60,Regression and Classification with Examples in R,5 points by soates 14 days ago  | discuss,14
+61,Free online course on statistical shape modelling,8 points by shapemean 19 days ago  | discuss,19
+62,"Don't worry about deep learning, deepen your understanding of causality instead",22 points by yanir 31 days ago  | discuss,31
+63,Skizze - A high throughput probabilistic data structure service and storage,2 points by seiflotfy 8 days ago  | discuss,8
+64,Work with private repositories and other updates of the FlyElephant platform,2 points by m31 9 days ago  | discuss,9
+65,How to import XML to almost anywhere,4 points by Jammink 14 days ago  | discuss,14
+66,Optimizing Notification Timing for One Signal,8 points by megandias 20 days ago  | discuss,20
+67,Survival Analysis of Cricket Player Careers,8 points by keshav92 20 days ago  | 6 comments,20
+68,Generate image analogies using neural matching and blending,2 points by pmigdal 9 days ago  | discuss,9
+69,"Analyzing 1.8M tweets from Super Bowl 50 (Twython, Twitter API, AYLIEN)",4 points by mikewally 14 days ago  | discuss,14
+70,Newly released sklearn compatible library of categorical encoders,7 points by wdm0006 19 days ago  | discuss,19
+71,Watch Tiny Neural Nets Learn,4 points by swanint 15 days ago  | discuss,15
+72,Four pitfalls of hill climbing: An animated look,5 points by csaid81 17 days ago  | discuss,17
+73,"Decision Forests, Convolutional Networks and the Models in-Between",2 points by ebellm 10 days ago  | discuss,10
+74,How a Math Genius Hacked OkCupid to Find True Love,15 points by roh_codeur 28 days ago  | discuss,28
+75,No developers for PyLearn2,3 points by tfturing 13 days ago  | discuss,13
+76,Density Estimation with Dirichlet Process Mixtures using PyMC3,6 points by MidsizeBlowfish 19 days ago  | discuss,19
+77,Using survival analysis and git-pandas to estimate code quality,3 points by wdm0006 14 days ago  | discuss,14
+78,An Analysis of the Flint Michigan Water Crisis: Part 1 Initial Corrosivity,3 points by JHorn 14 days ago  | discuss,14
+79,An Analysis of Republican Twitter Follower Interests,6 points by michelangelo 20 days ago  | discuss,20
+80,Introduction to ML talk,8 points by cjbayesian 23 days ago  | discuss,23
+81,GloVe vs word2vec revisited,3 points by pmigdal 14 days ago  | discuss,14
+82,Undergrad Data Analysis/Science internships SF Bay?,3 points by tctctc 9 days ago  | 5 comments,9
+83,The Role of Statistical Significance in Growth Hacking,6 points by rawls234 21 days ago  | discuss,21
+84,Data Science Course @ Harvard,7 points by rahmaniacc 23 days ago  | 2 comments,23
+85,Principal Component Projection Without Principal Component Analysis,6 points by genofon 21 days ago  | discuss,21
+86,"Machine Learning: An In-Depth, Non-Technical Guide - Part 3",7 points by innoarchitech 23 days ago  | discuss,23
+87,Stochastic Dummy Boosting,2 points by mikeskim 12 days ago  | discuss,12
+88,Interactive Map: Hong-Kong through The Lense of Instagram,2 points by BrianN 13 days ago  | discuss,13
+89,Data Science at Monsanto,3 points by doctorcroc 16 days ago  | discuss,16
+90,Data Science at Instacart,11 points by jeremystan 28 days ago  | 3 comments,28
+91,Building a Streaming Search Platform,6 points by ddrum001 22 days ago  | discuss,22
+92,A Sneak Peak of the Cloud: the 2 Minute Intro for Beginners,2 points by andymaheshw 14 days ago  | discuss,14
+93,Win-Vector video courses: price/status changes,2 points by jmount 14 days ago  | discuss,14
+94,50+ Data Science and Machine Learning Cheat Sheets,20 points by elyase 36 days ago  | 1 comment,36
+95,One More Reason Not To Be Scared of Deep Learning,2 points by amplifier_khan 15 days ago  | discuss,15
+96,Visual Logic Authoring vs Code,2 points by AnnaOnTheWeb 15 days ago  | discuss,15
+97,Data Science in Python online training with hands-on experience,2 points by Puneet 15 days ago  | discuss,15
+98,Viewing the US Presidential Primary Through the Lens of Twitter,8 points by michelangelo 27 days ago  | discuss,27
+99,Caffe on Spark open sourced,4 points by rahmaniacc 21 days ago  | discuss,21
+100,The Ethical Data Scientist,5 points by tfturing 23 days ago  | discuss,23
+101,Answers to Frequently Asked Questions in Machine Learning,3 points by rasbt 15 days ago  | discuss,15
+102,Intro to A/B Testing and P-Values,2 points by randyzwitch 16 days ago  | discuss,16
+103,Visualizing State Level Data With R and Statebins,2 points by usujason 16 days ago  | discuss,16
+104,"Probabilistic Graphical Models slides & video lectures (Eric Xing, CMU)",4 points by ororm 21 days ago  | discuss,21
+105,Sense2vec with spaCy and Gensim,9 points by elyase 30 days ago  | 2 comments,30
+106,How to Code and Understand DeepMind's Neural Stack Machine (in Python),2 points by genofon 17 days ago  | discuss,17
+107,How to make polished Jupyter presentations with optional code visibility,9 points by csaid81 30 days ago  | discuss,30
+108,How to become a Bayesian in eight easy steps,17 points by EtzA 38 days ago  | 1 comment,38
+109,Optimizing .*:  Details of Vectorization and Metaprogramming in Julia,4 points by randyzwitch 23 days ago  | discuss,23
+110,IBM certified Apache Spark Online Training,8 points by divya_jain 29 days ago  | discuss,29
+111,Geographic Data Science course,2 points by rk 18 days ago  | discuss,18
+112,"The Daily Mail Stole My Visualization, Twice",5 points by thehoff 26 days ago  | 1 comment,26
+113,Ensemble Methods: Improved Machine Learning Results,9 points by PyBloggers 32 days ago  | discuss,32
+114,Apache Spark and unsupervised learning in security,2 points by gradientflow 20 days ago  | discuss,20
+115,MachineJS: Automated machine learning- just give it a data file!,2 points by dsernst 20 days ago  | discuss,20
+116,Kafka Producer Latency with Large Topic Counts,2 points by marklit 20 days ago  | discuss,20
+117,The NSA???s SKYNET program may be killing thousands of innocent people,6 points by zlipp 29 days ago  | discuss,29
+118,Overoptimizing: a story about kaggle,3 points by wdm0006 24 days ago  | discuss,24
+119,"Big Dimensions, and What You Can Do About It",2 points by ramsey 21 days ago  | discuss,21
+120,Automate Your Oscars Pool with R,2 points by jamesdreiss 21 days ago  | discuss,21
+121,Signal Processing with LIGO GW150914 data,9 points by tfturing 33 days ago  | discuss,33
+122,Overview of DeZyre and Coursera Data Science Course,5 points by ann928 28 days ago  | discuss,28
+123,Upcoming Datathon in NYC,2 points by VicTrey 22 days ago  | discuss,22
+124,Summarizing Data in SQL,15 points by elisebreda 40 days ago  | discuss,40
+125,A/B Testing for Scammers,2 points by sameermanek 22 days ago  | discuss,22
+126,Highly interpretable classifiers for scikit learn using Bayesian decision rules,2 points by mcnulty 22 days ago  | discuss,22
+127,Auto-scaling scikit-learn with Spark,11 points by falaki 37 days ago  | discuss,37
+128,Where the f*** can I park?,2 points by manugarri 23 days ago  | discuss,23
+129,"Machine Learning: An In-Depth, Non-Technical Guide - Part 2",5 points by innoarchitech 30 days ago  | discuss,30
+130,Webhose.io now offers a historical data archive,7 points by databuffer 34 days ago  | discuss,34
+131,Meetup: Introduction to Machine Learning Algorithms for Data Science.,4 points by ann928 29 days ago  | discuss,29
+132,Exploring the Limits of Language Modeling,8 points by soates 36 days ago  | discuss,36
+133,Text Mining South Park,7 points by pmigdal 35 days ago  | discuss,35
+134,Finding the K in K-means by Parametric Bootstrap,7 points by jmount 35 days ago  | 1 comment,35
+135,A Billion NYC Taxi and Uber Rides in AWS Redshift,2 points by marklit 25 days ago  | discuss,25
+136,Getting Started with Statistics for Data Science,3 points by nickhould 29 days ago  | discuss,29
+137,Rodeo 1.3 - Tab-completion for docstrings,3 points by glamp 29 days ago  | discuss,29
+138,Teaching D3.js - links,3 points by pmigdal 29 days ago  | discuss,29
+139,Parallel scikit-learn on YARN,5 points by stijntonk 33 days ago  | discuss,33
+140,Meetup: Free Live Webinar on Prescriptive Analytics for Fun and Profit,2 points by ann928 26 days ago  | discuss,26
+141,Access to VK.com (Vkontakte) API via R,2 points by dementiy 27 days ago  | discuss,27
+142, 	Deep Learning Tutorial by Y. LeCun and Y. Bengio,15 points by Anon84 45 days ago  | 1 comment,45
+143,Machine Learning Meets Economics,20 points by nicolaskruchten 49 days ago  | discuss,49
+144,Culll for data science. culled from the best!,5 points by culllman 34 days ago  | 1 comment,34
+145,Topic Modelling: Parliamentary Debate Records ,6 points by jovianho 36 days ago  | discuss,36
+146,Ask DT: Who Is Hiring? (February 2016),24 points by racketracer 44 days ago  | 19 comments,44
+147,A Day in the Life of a Data Scientist (Rutgers Online),2 points by jaytaylor 28 days ago  | 1 comment,28
+148,GPU Computing for Data Science,11 points by AnnaOnTheWeb 43 days ago  | discuss,43
+149,Big Data Landscape: Database of 675+ Big Data Players,4 points by dfkoz 34 days ago  | discuss,34
+150,Deep Learning Udacity Course,20 points by tfturing 55 days ago  | 1 comment,55
+151,What has Kaggle learned from 2 million machine learning models?,4 points by tfturing 36 days ago  | discuss,36
+152,Making Causal Impact Analysis Easy,29 points by jxnlco 62 days ago  | discuss,62
+153,A recommendation system for blogs: Content-based similarity (part 2),2 points by tommels 30 days ago  | discuss,30
+154,Turing Art Test,4 points by soates 36 days ago  | discuss,36
+155,The happiness paradox: your friends are happier than you,4 points by Anon84 36 days ago  | discuss,36
+156,Deep Learning with Spark and Tensorflow,12 points by elyase 51 days ago  | discuss,51
+157,Down and out in statistical computing,7 points by randyzwitch 44 days ago  | 1 comment,44
+158,AlphaGo: using machine learning to master the ancient game of Go,10 points by Anon84 49 days ago  | discuss,49
+159,Census Analyzer: preview of technology for web based tool for data analysis,9 points by solomatov 48 days ago  | 1 comment,48
+160,Introduction to Java Web Scraping,3 points by ksahin 37 days ago  | discuss,37
+161,Market Basket Analysis Using R,3 points by randyzwitch 37 days ago  | discuss,37
+162,"Marvin Minsky, Pioneer in Artificial Intelligence, Dies at 88",10 points by vonnik 51 days ago  | discuss,51
+163,Open Source Deep Learning Server,6 points by soates 44 days ago  | discuss,44
+164,Spark-TS: A New Library for Analyzing Time-Series Data with Apache Spark,5 points by tfturing 42 days ago  | 1 comment,42
+165,An exploration of convnet filters with Keras,6 points by soates 44 days ago  | discuss,44
+166,Applied Spatial Data Science with R,9 points by AnnaOnTheWeb 50 days ago  | discuss,50
+167,Secrets of Building a Data-Driven Organization,7 points by vvan0016 49 days ago  | 1 comment,49
+168,Philly Tweets,2 points by ctufts 36 days ago  | 1 comment,36
+169,Neglected data science optimization topic: set diversity,2 points by jmount 37 days ago  | discuss,37
+170,"Machine Learning: An In-Depth, Non-Technical Guide - Part 2",2 points by innoarchitech 37 days ago  | discuss,37
+171,Statistical Dependency Parsing using SVM in Python by @rj_here,2 points by rjbullet 37 days ago  | 3 comments,37
+172,5 Reasons Kaggle Projects Won't Help Your Data Science Resume,9 points by Veerle 52 days ago  | 1 comment,52
+173,Deep Learning Glossary,9 points by dbritz 52 days ago  | discuss,52
+174,Teaching a Semester of D3.js,16 points by pmigdal 60 days ago  | discuss,60
+175,Finding Nearest Neighbors in SQL,7 points by jonathanbishop 50 days ago  | 2 comments,50
+176,Free Data Science Curriculum,8 points by Veerle 52 days ago  | discuss,52
+177,Deep Learning is Easy - Learn Something Harder,5 points by ebellm 48 days ago  | discuss,48
+178,"FlyElephant as a tool for calculations in C++, R, Python, or Octave",6 points by m31 51 days ago  | discuss,51
+179,Yahoo Releases the Largest-ever Machine Learning Dataset for Researchers,13 points by srinify 62 days ago  | 1 comment,62
