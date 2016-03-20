@@ -2,20 +2,25 @@
 Workshop material for Machine Learning in Python
 by [Amit Kapoor](http://twitter.com/amitkaps) and [Bargava Subramanian](http://twitter.com/bargava)
 
-1. Association Rule Mining *(4 hours, Dataset - Grocery)*
+
+1. [Time Series](/time_series) *(8 hours, Datasets - Onion)*
+	- Linear Trend Model
+	- Exponential Smoothing
+	- ARIMA Models
+	- Tweaking Model Parameters
+	- Time series modeling with Regressors
+
+2. [Association Rule Mining](/cf_mba) *(4 hours, Dataset - Grocery)*
 	- Apriori Algorithm
 	- Market Basket Analysis
 
-2. Recommendation System *(2 hours, Dataset - Grocery)*
-	- Collaborative Filtering
-
-3.  Random Forest / Gradient Boosting *(4 hours, Dataset - UCI)*
+3. [Random Forest / Gradient Boosting](/RF_GBM) *(4 hours, Dataset - UCI)*
 	- Intro to Ensemble Models, Bagging and Boosting
 	- Gradient Boosting Classifier & Regressor
 	- Random Forest Classifier & Regressor
 	- Tuning Model Parameters
 
-4. [Text Mining](/text_mining) *(6 hours, Dataset - DataTau and Twitter)* 
+4. [Text Mining](/text_mining) *(6 hours, Dataset - DataTau and Twitter)*
 	- Regular Expression
 	- Stopword Removal, Stemming
 	- Word Cloud
@@ -24,12 +29,7 @@ by [Amit Kapoor](http://twitter.com/amitkaps) and [Bargava Subramanian](http://t
 	- Sentiment Analysis
 	- Topic Modeling - Latent Dirichlet Allocation (LDA)
 
-5. [Time Series](/time_series) *(8 hours, Datasets - Onion)*
-	- ARIMA Models
-	- Exponential Smoothing
-	- Tweaking Model Parameters
-	- Cross Validation Setup
-	- Time series modeling with Regressors
+
 
 ###Script to check if requisite libraries for the workshop are present
 Please execute the following at the command prompt
